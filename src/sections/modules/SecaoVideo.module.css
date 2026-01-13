@@ -29,7 +29,7 @@
 }
 .TextoInferior {
     font-family: "League Spartan", sans-serif;
-    font-size: 60px;
+    font-size: 3rem;
     color: #214635;
     line-height: 1;
     margin-top: 15vh;
@@ -57,7 +57,7 @@
 .VideoYoutube {
     width: 100%;           /* Ocupa a largura total do span (850px) */
     aspect-ratio: 16 / 9;  /* Proporção padrão do YouTube */
-    border-radius: 25px;   /* Arredondamento */
+    border-radius: 1.5vw;   /* Arredondamento */
     border: none;
     box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
@@ -76,5 +76,9 @@
 
     .Subtitulo {
         font-size: 16px;
+    }
+
+    .VideoYoutube {
+
     }
 }

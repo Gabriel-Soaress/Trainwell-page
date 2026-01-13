@@ -1,4 +1,4 @@
-import styles from './SecaoCard.module.css'
+import styles from './modules/SecaoCard.module.css'
 
 import CardMed from "./components/CardMed";
 import fotoPersoal from './images/personal.png'

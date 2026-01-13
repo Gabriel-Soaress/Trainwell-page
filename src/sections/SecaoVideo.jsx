@@ -1,4 +1,4 @@
-import styles from './SecaoVideo.module.css';
+import styles from './modules/SecaoVideo.module.css';
 
 function SecaoVideo() {
     return (

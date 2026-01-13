@@ -1,4 +1,4 @@
-import styles from "./CardMed.module.css";
+import styles from "../modules/CardMed.module.css";
 
 function CardMed({cargo,fotos, direcao = "row"}){
     return (
